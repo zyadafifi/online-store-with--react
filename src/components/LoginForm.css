@@ -1,0 +1,19 @@
+input{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+}
+.log-btn{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+}
+#my-about{
+    background: #343a40;
+    color: aliceblue;
+}
+.my_form{
+    margin-top: 200px;
+    width: 2000px;
+    height: 100vh;
+}
