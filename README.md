@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-#in this project I used the mst familiar features of react such like react hooks and Routing to make a single page application
+#in this project I used the most familiar features of react such like react hooks and Routing to make a single page application
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
